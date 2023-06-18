@@ -2,7 +2,7 @@ C & C++ Laborarbiten
 
 | Language | lab number  |
 |:--------:|:------------|
-|    C     | - [ ] 1 lab |
+|    C     | - [x] 1 lab |
 |    C     | - [ ] 2 lab |
 |    C     | - [ ] 3 lab |
 |    C++   | - [ ] 4 lab |
