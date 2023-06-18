@@ -7,7 +7,7 @@ C & C++ Laborarbiten
 |    C     | - [x] 3 lab |
 |    C++   | - [x] 4 lab |
 |    C++   | - [x] 5 lab |
-|    C++   | - [ ] 6 lab |
+|    C++   | - [x] 6 lab |
 |    C++   | - [ ] 7 lab |
 |    C++   | - [ ] 8 lab |
 
